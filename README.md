@@ -34,6 +34,26 @@ I believe technology can improve people's lives, and I am committed to continuou
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ---
 
+## 🛠 Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Thunkable](https://img.shields.io/badge/Thunkable-0052CC?style=for-the-badge)
+
+## 🤖 Interests
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6A1B9A?style=for-the-badge)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)
+
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-2E7D32?style=for-the-badge)
+
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge)
+
 ## Current Goals
 
 - Build more programming projects
