@@ -149,6 +149,18 @@ Egypt
 
 ---
 
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanesmatbadawy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanesmatbadawy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 # 📫 Connect with Me
 
 📧 Email
