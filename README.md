@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Abdelrahman Esmat Badawy Khalifa 👋
 
-<!--
-**abdelrahmanesmatbadawy/abdelrahmanesmatbadawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Egyptian High School Graduate (Scientific Mathematics)
 
-Here are some ideas to get you started:
+💻 Aspiring Computer Science & Artificial Intelligence Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am a passionate Egyptian student preparing to pursue a Bachelor's degree in Computer Science, Artificial Intelligence, or Software Engineering.
+
+I enjoy solving problems through programming and building practical projects in Python, Embedded Systems, and Web Development.
+
+I believe technology can improve people's lives, and I am committed to continuous learning and innovation.
+
+---
+
+## Technical Skills
+
+- Python
+- C++ (Fundamentals)
+- Artificial Intelligence Fundamentals
+- Embedded Systems
+- Raspberry Pi Pico
+- MicroPython
+- HTML
+- Thunkable
+- Microsoft Office
+
+---
+
+## Current Goals
+
+- Build more programming projects
+- Learn Machine Learning
+- Contribute to Open Source
+- Study Computer Science abroad
+- Participate in international competitions
+
+---
+
+## Connect with Me
+
+📧 Email:
+abdelrahman.esmat.badawy@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/abdelrahman-esmat-332045426
+
+🌍 GitHub:
+https://github.com/abdelrahmanesmatbadawy
