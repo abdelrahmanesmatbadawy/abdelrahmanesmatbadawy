@@ -2,24 +2,31 @@
   <img src="banner.png" width="100%" alt="Banner">
 </p>
 
-## 👨‍💻 About Me
-🎓 Egyptian High School Graduate (Scientific Mathematics)
+<h1 align="center">Hi 👋, I'm Abdelrahman Esmat Badawy Khalifa</h1>
 
-💻 Aspiring Computer Science & Artificial Intelligence Student
+<h3 align="center">
+Future Computer Science & Artificial Intelligence Student
+</h3>
 
----
-
-## About Me
-
-I am a passionate Egyptian student preparing to pursue a Bachelor's degree in Computer Science, Artificial Intelligence, or Software Engineering.
-
-I enjoy solving problems through programming and building practical projects in Python, Embedded Systems, and Web Development.
-
-I believe technology can improve people's lives, and I am committed to continuous learning and innovation.
+<p align="center">
+A passionate Egyptian student interested in Artificial Intelligence, Software Development, Embedded Systems and solving real-world problems through technology.
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
+
+- 🎓 Egyptian High School Graduate (Scientific Mathematics)
+- 💻 Future Computer Science & Artificial Intelligence Student
+- 🐍 Passionate Python Programmer
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- ⚙️ Exploring Embedded Systems & Raspberry Pi Pico
+- 📚 Constant learner who enjoys building practical projects
+- 🌍 Seeking international scholarships and research opportunities
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -33,47 +40,135 @@ I believe technology can improve people's lives, and I am committed to continuou
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-6A1B9A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-5B21B6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-059669?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge"/>
 
 </p>
 
-## 🤖 Interests
+---
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6A1B9A?style=for-the-badge)
+# 🎯 Current Goals
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)
-
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-2E7D32?style=for-the-badge)
-
-![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge)
-
-## Current Goals
-
-- Build more programming projects
-- Learn Machine Learning
-- Contribute to Open Source
-- Study Computer Science abroad
-- Participate in international competitions
+- 🚀 Build real-world Python projects
+- 🤖 Learn Machine Learning
+- 🧠 Study Deep Learning
+- 💡 Participate in programming competitions
+- 🌍 Win an international scholarship
+- 📚 Study Computer Science abroad
+- ❤️ Contribute to Open Source
 
 ---
 
-## Connect with Me
+# 🏆 Achievements
 
-📧 Email:
-abdelrahman.esmat.badawy@gmail.com
+- 🥇 Multiple Academic Excellence Awards
+- 🥇 School Programming Activities
+- 🥇 STEM & AI Workshops
+- 🥇 School Theatre & Presentation Activities
+- 🥇 Team Competitions
+- 🥇 Python Learning Projects
 
-💼 LinkedIn:
+---
+
+# 📂 Featured Projects
+
+### 🐍 Python Calculator
+
+A desktop calculator built with Python.
+
+---
+
+### 📊 Student Grade Management System
+
+Python application for managing students' grades.
+
+---
+
+### 🤖 AI Mini Projects
+
+Simple Artificial Intelligence experiments and exercises.
+
+---
+
+### ⚙ Raspberry Pi Pico Projects
+
+Embedded systems projects using MicroPython.
+
+---
+
+### 🌐 Personal Portfolio
+
+Professional portfolio and academic documents.
+
+---
+
+# 📖 Currently Learning
+
+- Python Advanced Programming
+
+- Data Structures
+
+- Algorithms
+
+- Artificial Intelligence
+
+- Machine Learning
+
+- Git & GitHub
+
+- Software Engineering
+
+---
+
+# 🎓 Education
+
+**Secondary School**
+
+Al Radwa Language Schools
+
+6th of October City
+
+Egypt
+
+(Expected Graduation 2026)
+
+---
+
+# 🌍 Languages
+
+🇪🇬 Arabic — Native
+
+🇬🇧 English — Very Good (Improving toward Academic Fluency)
+
+---
+
+# 📫 Connect with Me
+
+📧 Email
+
+**abdelrahman.esmat.badawy@gmail.com**
+
+💼 LinkedIn
+
 https://linkedin.com/in/abdelrahman-esmat-332045426
 
-🌍 GitHub:
+💻 GitHub
+
 https://github.com/abdelrahmanesmatbadawy
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to star my repositories.
+
+</p>
