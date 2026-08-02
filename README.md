@@ -21,15 +21,13 @@ I believe technology can improve people's lives, and I am committed to continuou
 
 ## Technical Skills
 
-- Python
-- C++ (Fundamentals)
-- Artificial Intelligence Fundamentals
-- Embedded Systems
-- Raspberry Pi Pico
-- MicroPython
-- HTML
-- Thunkable
-- Microsoft Office
+Python
+C++
+Git
+GitHub
+AI
+Embedded Systems
+MicroPython
 
 ---
 
