@@ -149,8 +149,6 @@ Egypt
 
 ---
 
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -160,6 +158,8 @@ Egypt
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanesmatbadawy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
 
 # 📫 Connect with Me
 
