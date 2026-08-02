@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</p>
+
 # Hi, I'm Abdelrahman Esmat Badawy Khalifa 👋
 
 🎓 Egyptian High School Graduate (Scientific Mathematics)
