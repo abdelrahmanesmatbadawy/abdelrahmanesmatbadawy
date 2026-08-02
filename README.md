@@ -2,8 +2,7 @@
   <img src="banner.png" width="100%" alt="Banner">
 </p>
 
-# Hi, I'm Abdelrahman Esmat Badawy Khalifa 👋
-
+## 👨‍💻 About Me
 🎓 Egyptian High School Graduate (Scientific Mathematics)
 
 💻 Aspiring Computer Science & Artificial Intelligence Student
